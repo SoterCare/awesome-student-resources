@@ -16,19 +16,18 @@ body:
       required: true
   - type: dropdown
     attributes:
-      label: Which section?
+      label: Which category?
       options:
-        - Git & GitHub
-        - Open Source
-        - AWS & Cloud
-        - AI & Machine Learning
-        - Blockchain & Web3
-        - Software Engineering
-        - Career Roadmaps
-        - Student Opportunities
+        - Programming (Python / JavaScript / Rust / Java)
+        - Web Development
+        - Artificial Intelligence
+        - Machine Learning
+        - Cloud Computing (AWS / Azure / GCP)
+        - Blockchain (Ethereum / Solana / Algorand)
+        - Open Source (Git / GitHub / First Contribution)
+        - Career (Resume / Interview / Internships)
         - Hackathons
-        - Internships
-        - New section (explain below)
+        - New category (explain below)
     validations:
       required: true
   - type: textarea

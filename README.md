@@ -7,125 +7,68 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey?style=flat-square)](LICENSE)
 
-> A curated list of the best **free-first** resources for students who want to learn to code, contribute to open source, and grow into the developer ecosystem.
+> A curated, **free-first** collection of the best resources for students learning to code, contribute to open source, and grow in tech.
 
-Maintained with 💙 by the [SoterCare](https://github.com/SoterCare) student community. Everything here is chosen for **why it's worth your time** — no link dumps.
+Maintained with 💙 by the [SoterCare](https://github.com/SoterCare) student community. Organized into folders so it's easy to browse — every entry is chosen for **why it's worth your time**, no link dumps.
 
 </div>
 
-## Contents
-
-- [Git & GitHub](#-git--github)
-- [Open Source](#-open-source)
-- [AWS & Cloud](#-aws--cloud)
-- [AI & Machine Learning](#-ai--machine-learning)
-- [Blockchain & Web3](#-blockchain--web3)
-- [Software Engineering](#-software-engineering)
-- [Career Roadmaps](#-career-roadmaps)
-- [Student Opportunities](#-student-opportunities)
-- [Hackathons](#-hackathons)
-- [Internships](#-internships)
-- [Contributing](#-contributing)
-
 ---
 
-## 🔧 Git & GitHub
+## 📂 Browse by category
 
-- [GitHub Skills](https://skills.github.com/) — interactive courses that run on GitHub itself; learn by doing in minutes.
-- [Pro Git book](https://git-scm.com/book/en/v2) — free and definitive; chapters 1–3 cover what most people need.
-- [Learn Git Branching](https://learngitbranching.js.org/) — visual, game-like way to finally understand branching.
-- [Oh Shit, Git!?!](https://ohshitgit.com/) — how to get out of common Git messes.
-- [GitHub Docs](https://docs.github.com/) — the official manual for everything GitHub.
-- [First Contributions](https://github.com/firstcontributions/first-contributions) — a practice repo for your literal first pull request.
+| Category | Topics |
+| --- | --- |
+| 💻 **[Programming](programming/)** | [Python](programming/python.md) · [JavaScript](programming/javascript.md) · [Rust](programming/rust.md) · [Java](programming/java.md) |
+| 🌐 **[Web Development](web-development/)** | Frontend · Backend · Full-stack |
+| 🤖 **[Artificial Intelligence](ai/)** | LLMs · Generative AI · Building with AI |
+| 🧠 **[Machine Learning](machine-learning/)** | Courses · Intuition · Frameworks |
+| ☁️ **[Cloud Computing](cloud-computing/)** | [AWS](cloud-computing/aws.md) · [Azure](cloud-computing/azure.md) · [GCP](cloud-computing/gcp.md) |
+| ⛓️ **[Blockchain](blockchain/)** | [Ethereum](blockchain/ethereum.md) · [Solana](blockchain/solana.md) · [Algorand](blockchain/algorand.md) |
+| ❤️ **[Open Source](open-source/)** | [Git](open-source/git-guide.md) · [GitHub](open-source/github-guide.md) · [First Contribution](open-source/first-contribution-guide.md) |
+| 🧭 **[Career](career/)** | [Resume](career/resume.md) · [Interview Prep](career/interview-prep.md) · [Internships](career/internships.md) |
+| 🏆 **[Hackathons](hackathons/)** | Find · Win · Organize |
 
-## ❤️ Open Source
+## 🚀 Quick start by goal
 
-- [Open Source Guides](https://opensource.guide/) — GitHub's own guides; "How to Contribute" is essential reading.
-- [Good First Issue](https://goodfirstissue.dev/) — curated beginner-friendly issues across popular projects.
-- [Up For Grabs](https://up-for-grabs.net/) — projects with tasks set aside for newcomers.
-- [First Timers Only](https://www.firsttimersonly.com/) — a gentle philosophy and starting point for first-time contributors.
-- [CodeTriage](https://www.codetriage.com/) — get assigned open issues from projects you care about.
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) — the canonical walkthrough.
+- **"I want to learn my first language"** → [Python](programming/python.md)
+- **"I want to build websites"** → [Web Development](web-development/)
+- **"I want to work with AI"** → [AI](ai/) then [Machine Learning](machine-learning/)
+- **"I want a cloud certification"** → [AWS](cloud-computing/aws.md)
+- **"I want to make my first open-source contribution"** → [First Contribution Guide](open-source/first-contribution-guide.md)
+- **"I'm job hunting"** → [Career](career/)
 
-## ☁️ AWS & Cloud
-
-- [AWS Educate](https://aws.amazon.com/education/awseducate/) — free credits, labs, and courses for students, no credit card.
-- [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials) — the standard first cloud course.
-- [AWS Skill Builder](https://skillbuilder.aws/) — AWS's official learning platform, hundreds of free courses.
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) — hands-on Google Cloud labs.
-- [Microsoft Learn](https://learn.microsoft.com/en-us/training/) — free Azure and Microsoft technology paths.
-- [The Cloud Resume Challenge](https://cloudresumechallenge.dev/) — a project that turns cloud learning into a portfolio piece.
-
-## 🤖 AI & Machine Learning
-
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) — practical, visual, free.
-- [fast.ai — Practical Deep Learning](https://course.fast.ai/) — build working models first, theory second.
-- [Kaggle Learn](https://www.kaggle.com/learn) — bite-sized hands-on courses with instant feedback.
-- [Andrew Ng's ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — the classic foundation (audit free).
-- [Hugging Face Learn](https://huggingface.co/learn) — modern NLP, LLMs, and transformers, hands-on.
-- [3Blue1Brown — Neural Networks](https://www.3blue1brown.com/topics/neural-networks) — the best visual intuition for neural nets.
-- [Anthropic Docs](https://docs.anthropic.com/) — build AI apps with Claude.
-
-## ⛓️ Blockchain & Web3
-
-- [Algorand Developer Portal](https://developer.algorand.org/) — official docs and AlgoKit tooling.
-- [Solana Developer Resources](https://solana.com/developers) — official starting point for Solana.
-- [Ethereum.org — Learn](https://ethereum.org/en/learn/) — vendor-neutral explanations of core concepts.
-- [CryptoZombies](https://cryptozombies.io/) — learn smart contracts by building a game.
-- [Speedrun Ethereum](https://speedrunethereum.com/) — learn to build on Ethereum by shipping challenges.
-
-## 💻 Software Engineering
-
-- [The Odin Project](https://www.theodinproject.com/) — full-stack curriculum, project-driven, genuinely free.
-- [CS50 (Harvard)](https://cs50.harvard.edu/x/) — the best intro to computer science, free.
-- [freeCodeCamp](https://www.freecodecamp.org/) — thousands of hours of coding curriculum and certifications.
-- [The Missing Semester (MIT)](https://missing.csail.mit.edu/) — the shell, Git, and tooling classes never teach.
-- [Refactoring Guru](https://refactoring.guru/) — design patterns and refactoring, clearly explained.
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) — learn how large-scale systems are built.
-- [roadmap.sh](https://roadmap.sh/) — visual developer roadmaps for every path.
-
-## 🧭 Career Roadmaps
-
-- [roadmap.sh](https://roadmap.sh/) — step-by-step roadmaps for frontend, backend, DevOps, AI, and more.
-- [developer-roadmap (GitHub)](https://github.com/kamranahmedse/developer-roadmap) — the repo behind roadmap.sh.
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/) — everything for landing your first tech job.
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university) — a complete self-study plan.
-- [levels.fyi](https://www.levels.fyi/) — understand roles and compensation across the industry.
-
-## 🎓 Student Opportunities
+## 🎓 Student programs worth knowing
 
 - [GitHub Student Developer Pack](https://education.github.com/pack) — free developer tools and credits for students.
 - [GitHub Campus Experts](https://education.github.com/experts) — become a student leader in your community.
 - [Google Developer Student Clubs](https://developers.google.com/community/gdsc) — Google-backed campus communities.
 - [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors) — student ambassador program.
-- [MLH (Major League Hacking)](https://mlh.io/) — the official student hackathon league.
-- [Outreachy](https://www.outreachy.org/) — paid, remote open-source internships for underrepresented groups.
-
-## 🏆 Hackathons
-
-- [MLH Events](https://mlh.io/seasons) — the global calendar of student hackathons.
-- [Devpost](https://devpost.com/hackathons) — find and enter online and in-person hackathons.
-- [Devfolio](https://devfolio.co/hackathons) — a large hackathon platform, popular in South Asia.
-- [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) — resources for running and winning hackathons.
-- [How to Win a Hackathon](https://ml.school/hackathon) — practical strategy for participants.
-
-## 💼 Internships
-
-- [Google Summer of Code](https://summerofcode.withgoogle.com/) — paid open-source contributions with mentoring.
-- [Outreachy](https://www.outreachy.org/) — paid remote open-source internships.
-- [LinkedIn Jobs — Internships](https://www.linkedin.com/jobs/internship-jobs/) — filter for student and internship roles.
-- [Summer of Bitcoin](https://www.summerofbitcoin.org/) — global internship in Bitcoin open source.
-- [levels.fyi Internships](https://www.levels.fyi/internships/) — internship listings with pay transparency.
-- [Summer 2026 Internships (SimplifyJobs)](https://github.com/SimplifyJobs/Summer2026-Internships) — a huge, community-maintained list of open tech internships, updated daily.
+- [Major League Hacking (MLH)](https://mlh.io/) — the official student hackathon league.
 
 ---
 
 ## 🤝 Contributing
 
-Found a resource that changed how you learn? [Open a pull request](CONTRIBUTING.md) — every entry needs a one-line reason it's worth someone's time. First-time contributors especially welcome.
+Found a resource that changed how you learn? [Open a pull request](CONTRIBUTING.md) — add it to the right category file with a one-line reason it's worth someone's time. First-time contributors especially welcome; this is a great repository to make your [first contribution](open-source/first-contribution-guide.md).
+
+## 📁 Structure
+
+```
+awesome-student-resources/
+├── programming/       python · javascript · rust · java
+├── web-development/
+├── ai/
+├── machine-learning/
+├── cloud-computing/   aws · azure · gcp
+├── blockchain/        ethereum · solana · algorand
+├── open-source/       git · github · first-contribution
+├── career/            resume · interview-prep · internships
+└── hackathons/
+```
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
 
-To the extent possible under law, the [SoterCare community](https://github.com/SoterCare) has waived all copyright and related or neighboring rights to this curated list ([CC0 1.0](LICENSE)).
+To the extent possible under law, the [SoterCare community](https://github.com/SoterCare) has waived all copyright and related rights to this curated list ([CC0 1.0](LICENSE)).

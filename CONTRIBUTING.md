@@ -11,9 +11,22 @@ Every entry must be:
 - **Backed by a reason** — one line on *why* it's worth someone's time (not just what it is)
 - **Currently maintained** — no dead links or abandoned resources
 
+## Where to add it
+
+Resources live in category folders, not one giant file. Find the right place:
+
+- A language → `programming/<language>.md`
+- A cloud provider → `cloud-computing/<provider>.md`
+- A chain → `blockchain/<chain>.md`
+- Open source / Git / GitHub → `open-source/`
+- Careers → `career/`
+- Otherwise → the relevant category's `README.md`
+
+If nothing fits, open an issue proposing a new folder or page first.
+
 ## Format
 
-Add your entry to the right section, alphabetically friendly, in this format:
+Add your entry to the right file, in this format:
 
 ```markdown
 - [Resource Name](https://link) — one-line reason it's worth someone's time.
