@@ -116,7 +116,7 @@ Maintained with 💙 by the [SoterCare](https://github.com/SoterCare) student co
 - [LinkedIn Jobs — Internships](https://www.linkedin.com/jobs/internship-jobs/) — filter for student and internship roles.
 - [Summer of Bitcoin](https://www.summerofbitcoin.org/) — global internship in Bitcoin open source.
 - [levels.fyi Internships](https://www.levels.fyi/internships/) — internship listings with pay transparency.
-- [Awesome Summer Internships](https://github.com/lorenzoromani1983/awesome-summer-of-code) — curated open-source internship programs.
+- [Summer 2026 Internships (SimplifyJobs)](https://github.com/SimplifyJobs/Summer2026-Internships) — a huge, community-maintained list of open tech internships, updated daily.
 
 ---
 
