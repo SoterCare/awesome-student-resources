@@ -5,7 +5,7 @@ A pure proof-of-stake blockchain. SoterCare ran an [Algorand Foundation Workshop
 ## Learn
 
 - [Algorand Developer Portal](https://developer.algorand.org/) — official docs, tutorials, and guides.
-- [AlgoKit](https://developer.algorand.org/docs/get-started/algokit/) — the toolkit we used in our workshop; the fastest way to start building.
+- [AlgoKit](https://dev.algorand.co/algokit/algokit-intro/) — the toolkit we used in our workshop; the fastest way to start building.
 - [Algorand Developer Docs](https://dev.algorand.co/) — the current developer documentation hub.
 
 ## Build

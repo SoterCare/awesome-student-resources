@@ -7,7 +7,7 @@ Represent a technology or community on your campus. These build leadership, netw
 - [GitHub Campus Experts](https://education.github.com/experts) — GitHub's flagship student-leader program; training in community building and public speaking.
 - [Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors) — build community around Microsoft technologies.
 - [Google Developer Student Clubs](https://developers.google.com/community/gdsc) — Google-backed campus developer communities.
-- [AWS Cloud Club Captains](https://aws.amazon.com/developer/community/cloud-clubs/) — lead an AWS Cloud Club on your campus.
+- [AWS Cloud Club Captains](https://aws.amazon.com/developer/community/students/) — lead an AWS Cloud Club on your campus.
 - [MLH Coach / Organizer](https://mlh.io/) — help run student hackathons with Major League Hacking.
 
 ## Why join

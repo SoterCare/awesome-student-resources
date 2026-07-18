@@ -4,7 +4,7 @@ Find hackathons, learn to win them, and eventually run your own.
 
 ## Find hackathons
 
-- [MLH — Season Events](https://mlh.io/seasons) — the global calendar of student hackathons.
+- [MLH — Events](https://mlh.io/events) — the global calendar of student hackathons.
 - [Devpost](https://devpost.com/hackathons) — find and enter online and in-person hackathons.
 - [Devfolio](https://devfolio.co/hackathons) — a large hackathon platform, popular in South Asia.
 - [Unstop](https://unstop.com/hackathons) — hackathons, competitions, and opportunities for students.

@@ -20,7 +20,7 @@ Amazon Web Services — the largest cloud platform, with a generous student prog
 
 ## Community
 
-Connect through an [AWS Cloud Club](https://aws.amazon.com/developer/community/cloud-clubs/) — SoterCare engages with this community.
+Connect through the [AWS student & Cloud Club community](https://aws.amazon.com/developer/community/students/) — SoterCare engages with this community.
 
 ---
 

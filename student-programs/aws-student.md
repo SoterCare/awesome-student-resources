@@ -6,7 +6,7 @@ Amazon Web Services offers students free credits, labs, and training — a low-r
 
 - [AWS Educate](https://aws.amazon.com/education/awseducate/) — free credits, hands-on labs, and courses; no credit card required.
 - [AWS Academy](https://aws.amazon.com/training/awsacademy/) — cloud curriculum offered through participating institutions.
-- [AWS Cloud Clubs](https://aws.amazon.com/developer/community/cloud-clubs/) — student-led communities; SoterCare engages with this community.
+- [AWS Cloud Clubs](https://aws.amazon.com/developer/community/students/) — student-led communities; SoterCare engages with this community.
 
 ## Learn & certify
 
