@@ -1,11 +1,11 @@
-# 🧭 Career
+# 🧭 Careers
 
 From your first resume to your first offer — the resources to get there.
 
 | Topic | Page |
 | --- | --- |
 | 📄 Resume | [resume.md](resume.md) |
-| 🎯 Interview Preparation | [interview-prep.md](interview-prep.md) |
+| 🎯 Interview Preparation | [interview-preparation.md](interview-preparation.md) |
 | 💼 Internships | [internships.md](internships.md) |
 
 ## Plan your path

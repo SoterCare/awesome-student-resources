@@ -1,12 +1,12 @@
 # ❤️ Open Source
 
-Open source is one of the best ways to learn software engineering. Start with the basics, then make your first contribution.
+Open source is one of the best ways to learn software engineering. Start with the basics, make your first contribution, then join a program.
 
 | Guide | Page |
 | --- | --- |
-| 🔧 Git Guide | [git-guide.md](git-guide.md) |
-| 🐙 GitHub Guide | [github-guide.md](github-guide.md) |
-| 🌱 First Contribution Guide | [first-contribution-guide.md](first-contribution-guide.md) |
+| 🐙 Getting Started with Git & GitHub | [github.md](github.md) |
+| 🌱 First Contribution Guide | [contribution-guide.md](contribution-guide.md) |
+| 🌍 Open Source Programs | [programs.md](programs.md) |
 
 ## Find things to work on
 

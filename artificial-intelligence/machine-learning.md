@@ -7,6 +7,7 @@ The fundamentals of ML — the math, models, and frameworks behind modern AI.
 - [Machine Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/machine-learning-introduction) — the classic foundation; audit for free.
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) — practical, visual, and free.
 - [Kaggle Learn](https://www.kaggle.com/learn) — bite-sized hands-on courses with instant feedback.
+- [fast.ai — Practical Deep Learning](https://course.fast.ai/) — build working models first, theory second.
 
 ## Intuition
 

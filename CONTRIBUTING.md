@@ -16,10 +16,14 @@ Every entry must be:
 Resources live in category folders, not one giant file. Find the right place:
 
 - A language → `programming/<language>.md`
-- A cloud provider → `cloud-computing/<provider>.md`
+- Web development → `web-development/README.md`
+- AI / ML / generative / research → `artificial-intelligence/<topic>.md`
+- A cloud provider → `cloud/<provider>.md`
 - A chain → `blockchain/<chain>.md`
-- Open source / Git / GitHub → `open-source/`
-- Careers → `career/`
+- Git / GitHub / contributing / OSS programs → `open-source/`
+- Hackathons → `hackathons/opportunities.md`
+- Careers (resume / interview / internships) → `careers/`
+- Student programs, packs, scholarships, ambassador programs → `student-programs/`
 - Otherwise → the relevant category's `README.md`
 
 If nothing fits, open an issue proposing a new folder or page first.

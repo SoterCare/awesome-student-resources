@@ -20,13 +20,13 @@ body:
       options:
         - Programming (Python / JavaScript / Rust / Java)
         - Web Development
-        - Artificial Intelligence
-        - Machine Learning
-        - Cloud Computing (AWS / Azure / GCP)
+        - Artificial Intelligence (ML / Generative AI / Research)
+        - Cloud (AWS / Azure / Google Cloud)
         - Blockchain (Ethereum / Solana / Algorand)
-        - Open Source (Git / GitHub / First Contribution)
-        - Career (Resume / Interview / Internships)
+        - Open Source (Git / GitHub / Contribution / Programs)
         - Hackathons
+        - Careers (Resume / Interview / Internships)
+        - Student Programs (Packs / Scholarships / Ambassador)
         - New category (explain below)
     validations:
       required: true
