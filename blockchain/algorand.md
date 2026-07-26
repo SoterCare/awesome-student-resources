@@ -1,6 +1,6 @@
 # △ Algorand
 
-A pure proof-of-stake blockchain. SoterCare ran an [Algorand Foundation Workshop](https://github.com/SoterCare/community/blob/main/events/algorand-workshop.md) (AlgoKit 3.0, 50+ students trained).
+A pure proof-of-stake blockchain. SoterCare ran an [Algorand Foundation Workshop](https://github.com/SoterCare/community/blob/main/events/algorand-workshop.md) (AlgoKit 3.0, 100+ students trained).
 
 ## Learn
 
