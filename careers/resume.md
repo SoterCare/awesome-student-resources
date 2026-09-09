@@ -12,6 +12,10 @@ A great tech resume is short, specific, and results-focused. These help you buil
 - [Jake's Resume (Overleaf)](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) — the clean, ATS-friendly LaTeX template many engineers use.
 - [Overleaf Resume Templates](https://www.overleaf.com/gallery/tagged/cv) — a gallery of free, professional templates.
 
+## Tools
+
+- [ResumeAI](https://withresumeai.com/) — AI resume builder with a free ATS checker (3/day no account, 10/day free account). Includes State of ATS 2026 (738 employers, 704 portal-verified).
+
 ## Get it reviewed
 
 - [r/EngineeringResumes Wiki](https://www.reddit.com/r/EngineeringResumes/wiki/index/) — a detailed, community-maintained resume guide plus free reviews.
