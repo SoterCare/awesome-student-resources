@@ -12,6 +12,7 @@ Technical interviews are a learnable skill. Practice deliberately with these.
 
 - [LeetCode](https://leetcode.com/) — the standard platform for coding-interview practice.
 - [HackerRank](https://www.hackerrank.com/) — problems plus skill certifications.
+- [Exercism](https://exercism.org/) — 70+ languages with free mentored tracks, so you get feedback on your code, not just a pass/fail.
 
 ## System design
 
