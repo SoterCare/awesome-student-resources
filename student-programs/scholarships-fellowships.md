@@ -11,6 +11,7 @@ Funding and fellowships that support students in tech.
 ## Scholarships
 
 - [Google Scholarships](https://buildyourfuture.withgoogle.com/scholarships) — a hub of Google's scholarship programs for students in tech.
+- [ScholarMatch](https://www.scholarmatch.me) — AI-powered scholarship matching engine for fully funded international opportunities.
 - [GitHub Education](https://education.github.com/) — programs, packs, and opportunities for students and teachers.
 - [Grace Hopper Celebration Scholarships](https://ghc.anitab.org/attend/scholarships/) — funding to attend the largest gathering of women in computing.
 
